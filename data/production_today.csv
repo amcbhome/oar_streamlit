@@ -1,0 +1,5 @@
+product,status,quantity,wip_conv_pct
+A,finished,400,1.0
+B,finished,300,1.0
+C,finished,200,1.0
+C,wip,100,0.60
